@@ -1,10 +1,5 @@
 ## Utkarsh Bhadauria
 
-### Connect with me:
-
-<p align="left"> 
-<a href="https://www.linkedin.com/in/er-nakul-singh/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="java" width="35" height="35"/> </a> </p>
-
 ### Languages and Tools:
 
 <p align="left"> 
